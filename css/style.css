@@ -2384,6 +2384,10 @@ textarea.form-control {
   border-width: 1px 0 0 0;
 }
 
+.linkedin {
+  margin-top: 1%;
+}
+
 @media only screen and (max-width: 767px) {
   /* MODALS */
   .modal-dialog {
